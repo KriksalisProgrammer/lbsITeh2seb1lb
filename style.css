@@ -1,0 +1,33 @@
+.Zapros1
+{
+	border: 4px double black;
+	background: #fc3;
+	position: relative;	
+	padding-bottom: 30px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: center;
+}
+.Zapros2
+{
+	border: 4px double black;
+	background: #fc3;
+	position:relative;
+	margin-top: 50px;
+	padding-bottom: 30px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: center;
+}
+
+.Zapros3
+{
+	border: 4px double black;
+	background: #fc3;
+	position:relative;
+	margin-top: 50px;
+	padding-bottom: 30px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: center;
+}
